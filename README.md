@@ -39,6 +39,7 @@ Deployed at: _https://ml-diabetes-predictionapi.herokuapp.com/_
 - Execute the command: python app.py
 
 • A glimpse demo of the web app:
+![GIF](images/diabates_prediction.gif)
 
 
 
