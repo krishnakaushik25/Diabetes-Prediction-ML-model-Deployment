@@ -28,3 +28,10 @@
 <img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/heroku.png" width=150>
 <img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/numpy.png" width=150>
 <img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/pandas.jpeg" width=150>
+
+### Installation 
+- Clone this repository and unzip it.
+- After downloading, cd into the flask directory.
+- Begin a new virtual environment with Python 3 and activate it.
+- Install the required packages using pip install -r requirements.txt
+- Execute the command: python app.py
