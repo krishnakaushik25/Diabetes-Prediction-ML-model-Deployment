@@ -103,7 +103,7 @@ Any contributions you make are **greatly appreciated**.If you find a bug (the we
 <!-- CONTACT -->
 ## Contact
 
-My Name - Krishna Kaushik [@twitter](https://twitter.com/Kkk11Krishna) 
+My Name - Krishna Kaushik [@twitter](https://twitter.com/Kkk11Krishna) [@Linkedin](https://www.linkedin.com/in/kaushik-2523/)
 
 
 <!-- ACKNOWLEDGEMENTS -->
