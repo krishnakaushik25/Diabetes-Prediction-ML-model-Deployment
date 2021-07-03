@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/krishnakaushik25/MERNG-Social-Media-APP">
-    <img src="images/Machine--Learning-logo.png" alt="Logo" width="80" height="80">
+    <img src="images/Machine--Learning-logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Diabetes Prediction WEB APP using Machine Learning</h3>
