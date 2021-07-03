@@ -20,7 +20,7 @@
   </p>
 </p>
 
-If you want to view the deployed model, click on the following link:<br />
+If you want to view the deployed model, click on the following link.<br />
 Deployed at: _https://ml-diabetes-predictionapi.herokuapp.com/_
 ### Technologies Used  
 ![](https://forthebadge.com/images/badges/made-with-python.svg) 
