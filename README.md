@@ -27,8 +27,8 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#technologies used">Technologies Used</a></li>
-        <li><a href="#main intention">Main Intention</a></li>
+        <li><a href="#technologies-used">Technologies Used</a></li>
+        <li><a href="#main-intention">Main Intention</a></li>
       </ul>
     </li>
     <li><a href="#installation">Installation</a></li>
