@@ -47,7 +47,8 @@
 
 In this project, our objective is to predict whether the patient has diabetes or not based on various features like Glucose level, Insulin, Age, BMI. We will perform all the steps from Data gathering to Model deployment. During Model evaluation, we compare various machine learning algorithms by applying GridSearchCV for getting the best params of the models and selected the best one on the basis of Accuracy_Score metric. Then we create a web app using Flask which is a python micro framework. The dataset is taken from the [Kaggle](https://www.kaggle.com/johndasilva/diabetes) competition
 
-• Dataset Link: https://www.kaggle.com/johndasilva/diabetes
+• Dataset Link: https://www.kaggle.com/johndasilva/diabetes <br />
+
 • If you want to view the deployed model, click on the following link.<br />
 Deployed at: _https://ml-diabetes-predictionapi.herokuapp.com/_
 
