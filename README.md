@@ -37,3 +37,9 @@ Deployed at: _https://ml-diabetes-predictionapi.herokuapp.com/_
 - Begin a new virtual environment with Python 3 and activate it.
 - Install the required packages using pip install -r requirements.txt
 - Execute the command: python app.py
+
+• A glimpse demo of the web app:
+
+
+
+• The  __Code__, __Algorithms used__ and __Accuracy__ of the model is present in Diabetes Classification.ipynb
