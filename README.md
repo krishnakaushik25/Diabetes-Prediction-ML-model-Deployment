@@ -42,6 +42,7 @@
 ## About The Project
 
 • A glimpse demo of the web app:
+
 ![GIF](images/diabates-prediction.gif)
 
 
